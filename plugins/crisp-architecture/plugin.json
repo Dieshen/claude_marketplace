@@ -1,0 +1,13 @@
+{
+  "name": "crisp-architecture",
+  "description": "CRISP Architecture Suite - Clean, Reusable, Isolated, Simple, Pragmatic scaffolding patterns for modern applications",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["architecture", "scaffolding", "crisp", "clean-code", "design-patterns", "project-structure"],
+  "commands": "./commands"
+}

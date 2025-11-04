@@ -1,0 +1,13 @@
+{
+  "name": "novelcrafter-export",
+  "description": "Novelcrafter Export - Tools for exporting, formatting, and converting Novelcrafter content to various publication formats",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["novelcrafter", "writing", "export", "epub", "markdown", "manuscript", "publishing"],
+  "commands": "./commands"
+}

@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Professional development tools and plugins by Narcoleptic Fox",
-    "version": "1.0.0"
+    "version": "2.0.0"
   },
   "plugins": [
     {
@@ -28,6 +28,141 @@
         "accessibility"
       ],
       "category": "UI/Design"
+    },
+    {
+      "name": "crisp-architecture",
+      "source": "./plugins/crisp-architecture",
+      "description": "CRISP Architecture Suite - Clean, Reusable, Isolated, Simple, Pragmatic scaffolding patterns for modern applications",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "architecture",
+        "scaffolding",
+        "crisp",
+        "clean-code",
+        "design-patterns",
+        "project-structure"
+      ],
+      "category": "Architecture"
+    },
+    {
+      "name": "dotnet-enterprise",
+      "source": "./plugins/dotnet-enterprise",
+      "description": "Enterprise .NET Patterns - ASP.NET Core, Entity Framework, security best practices for .NET 8, 9, and 10",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "dotnet",
+        "csharp",
+        "aspnet",
+        "entity-framework",
+        "security",
+        "enterprise",
+        "net8",
+        "net9",
+        "net10"
+      ],
+      "category": "Backend/.NET"
+    },
+    {
+      "name": "rust-performance",
+      "source": "./plugins/rust-performance",
+      "description": "Rust Performance Toolkit - Best practices, async patterns, zero-cost abstractions, and performance optimization",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "rust",
+        "performance",
+        "async",
+        "tokio",
+        "optimization",
+        "concurrency",
+        "systems-programming"
+      ],
+      "category": "Backend/Rust"
+    },
+    {
+      "name": "cross-stack-microservices",
+      "source": "./plugins/cross-stack-microservices",
+      "description": "Cross-Stack Microservices - Production-ready templates and patterns for Go, .NET, and Rust microservices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "microservices",
+        "go",
+        "dotnet",
+        "rust",
+        "kubernetes",
+        "docker",
+        "api",
+        "grpc"
+      ],
+      "category": "Microservices"
+    },
+    {
+      "name": "modern-frontend",
+      "source": "./plugins/modern-frontend",
+      "description": "Modern Frontend - Vue 3 Composition API, React hooks, TypeScript patterns, and state management",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "vue3",
+        "react",
+        "typescript",
+        "frontend",
+        "composition-api",
+        "hooks",
+        "state-management"
+      ],
+      "category": "Frontend"
+    },
+    {
+      "name": "defense-security",
+      "source": "./plugins/defense-security",
+      "description": "Defense-Grade Security - NIST compliance, security controls, cryptography, and secure development practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "security",
+        "nist",
+        "compliance",
+        "cryptography",
+        "stig",
+        "fisma",
+        "zero-trust"
+      ],
+      "category": "Security"
+    },
+    {
+      "name": "novelcrafter-export",
+      "source": "./plugins/novelcrafter-export",
+      "description": "Novelcrafter Export - Tools for exporting, formatting, and converting Novelcrafter content to various publication formats",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "novelcrafter",
+        "writing",
+        "export",
+        "epub",
+        "markdown",
+        "manuscript",
+        "publishing"
+      ],
+      "category": "Writing/Publishing"
     }
   ]
 }

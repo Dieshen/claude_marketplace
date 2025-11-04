@@ -1,0 +1,13 @@
+{
+  "name": "defense-security",
+  "description": "Defense-Grade Security - NIST compliance, security controls, cryptography, and secure development practices",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["security", "nist", "compliance", "cryptography", "stig", "fisma", "zero-trust"],
+  "commands": "./commands"
+}
