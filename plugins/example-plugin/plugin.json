@@ -1,0 +1,14 @@
+{
+  "name": "example-plugin",
+  "description": "Example plugin structure for reference",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/narcoleptic-fox/your-repo-name",
+  "license": "MIT",
+  "keywords": ["example", "template"],
+  "commands": "./commands",
+  "agents": "./agents"
+}

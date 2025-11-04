@@ -1,0 +1,33 @@
+{
+  "name": "dieshen-plugins",
+  "owner": {
+    "name": "Brock CLaussen",
+    "email": "contact@narcolepticfox.com"
+  },
+  "metadata": {
+    "description": "Professional development tools and plugins by Narcoleptic Fox",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "shadcn-aesthetic",
+      "source": "./plugins/shadcn-aesthetic",
+      "description": "Modern CSS/SCSS architecture based on shadcn/ui design principles for refined, accessible styling",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "css",
+        "scss",
+        "shadcn",
+        "design-system",
+        "ui",
+        "styling",
+        "modern",
+        "accessibility"
+      ],
+      "category": "UI/Design"
+    }
+  ]
+}
