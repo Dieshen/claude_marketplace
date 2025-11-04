@@ -22,7 +22,7 @@ Instead of generating old-school, clunky CSS with hard-coded colors and random p
 
 ```bash
 # Add marketplace
-/plugin marketplace add narcoleptic-fox/your-repo-name
+/plugin marketplace add narcoleptic-fox/https://github.com/Dieshen/claude_marketplace.git
 
 # Install plugin
 /plugin install shadcn-aesthetic@narcoleptic-fox-plugins

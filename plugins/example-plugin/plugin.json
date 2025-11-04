@@ -6,9 +6,12 @@
     "name": "Brock",
     "email": "contact@narcolepticfox.com"
   },
-  "homepage": "https://github.com/narcoleptic-fox/your-repo-name",
+  "homepage": "https://github.com/narcoleptic-fox/https://github.com/Dieshen/claude_marketplace.git",
   "license": "MIT",
-  "keywords": ["example", "template"],
+  "keywords": [
+    "example",
+    "template"
+  ],
   "commands": "./commands",
   "agents": "./agents"
 }

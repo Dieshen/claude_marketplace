@@ -313,7 +313,7 @@ padding: var(--spacing-3);
 
 Install the plugin:
 ```bash
-/plugin marketplace add narcoleptic-fox/your-repo-name
+/plugin marketplace add narcoleptic-fox/https://github.com/Dieshen/claude_marketplace.git
 /plugin install shadcn-aesthetic@narcoleptic-fox-plugins
 ```
 
