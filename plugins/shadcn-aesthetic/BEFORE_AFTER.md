@@ -313,8 +313,8 @@ padding: var(--spacing-3);
 
 Install the plugin:
 ```bash
-/plugin marketplace add narcoleptic-fox/https://github.com/Dieshen/claude_marketplace.git
-/plugin install shadcn-aesthetic@narcoleptic-fox-plugins
+/plugin marketplace add https://github.com/Dieshen/claude_marketplace.git
+/plugin install shadcn-aesthetic@dieshen-plugins
 ```
 
 Now when you ask Claude to create UI components, it automatically uses these modern patterns!

@@ -22,10 +22,10 @@ Instead of generating old-school, clunky CSS with hard-coded colors and random p
 
 ```bash
 # Add marketplace
-/plugin marketplace add narcoleptic-fox/https://github.com/Dieshen/claude_marketplace.git
+/plugin marketplace add https://github.com/Dieshen/claude_marketplace.git
 
 # Install plugin
-/plugin install shadcn-aesthetic@narcoleptic-fox-plugins
+/plugin install shadcn-aesthetic@dieshen-plugins
 
 # Restart Claude Code
 ```
