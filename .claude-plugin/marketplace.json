@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Professional development tools and plugins by Narcoleptic Fox",
-    "version": "2.0.0"
+    "version": "3.0.0"
   },
   "plugins": [
     {
@@ -163,6 +163,64 @@
         "publishing"
       ],
       "category": "Writing/Publishing"
+    },
+    {
+      "name": "react-best-practices",
+      "source": "./plugins/react-best-practices",
+      "description": "React Best Practices - Modern hooks patterns, performance optimization, testing, and production-ready React development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "react",
+        "hooks",
+        "typescript",
+        "performance",
+        "testing",
+        "best-practices",
+        "patterns"
+      ],
+      "category": "Frontend/React"
+    },
+    {
+      "name": "go-best-practices",
+      "source": "./plugins/go-best-practices",
+      "description": "Go Best Practices - Idiomatic Go patterns, concurrency, error handling, testing, and production-ready Go development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "go",
+        "golang",
+        "concurrency",
+        "goroutines",
+        "channels",
+        "testing",
+        "best-practices",
+        "idiomatic"
+      ],
+      "category": "Backend/Go"
+    },
+    {
+      "name": "vue-best-practices",
+      "source": "./plugins/vue-best-practices",
+      "description": "Vue.js Best Practices - Vue 3 Composition API, reactivity system, composables, Pinia, and production-ready Vue development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "vue",
+        "vue3",
+        "composition-api",
+        "composables",
+        "pinia",
+        "typescript",
+        "best-practices"
+      ],
+      "category": "Frontend/Vue"
     }
   ]
 }

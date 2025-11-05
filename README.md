@@ -123,6 +123,57 @@ Export and format Novelcrafter content for publication:
 
 ---
 
+### ⚛️ React Best Practices
+**Category**: Frontend/React | **Command**: `/react-bp`
+
+Modern React development with hooks, TypeScript, and production-ready patterns:
+- Functional components with TypeScript
+- Custom hooks for reusable logic (useFetch, useDebounce, useLocalStorage)
+- Performance optimization (React.memo, useMemo, useCallback)
+- Context API for state management
+- Form handling with validation
+- Error boundaries and error handling
+- Testing with React Testing Library
+- Code splitting and lazy loading
+
+**Use when**: Building React applications, optimizing performance, or establishing React coding standards.
+
+---
+
+### 🐹 Go Best Practices
+**Category**: Backend/Go | **Command**: `/go-bp`
+
+Idiomatic Go patterns and production-ready development:
+- Error handling patterns and custom error types
+- Goroutines, channels, and concurrency patterns
+- Worker pools and pipeline patterns
+- Context usage for cancellation and timeouts
+- HTTP server patterns and middleware
+- Interface design and composition
+- Testing with table-driven tests and mocks
+- Graceful shutdown patterns
+
+**Use when**: Writing idiomatic Go code, building concurrent systems, or optimizing Go applications.
+
+---
+
+### 💚 Vue.js Best Practices
+**Category**: Frontend/Vue | **Command**: `/vue-bp`
+
+Vue 3 Composition API and modern Vue development:
+- Script setup with TypeScript
+- Composables for reusable logic
+- Pinia for state management
+- Reactivity system best practices (ref vs reactive)
+- Generic components with TypeScript
+- Performance optimization (computed, v-memo, virtual scrolling)
+- Provide/Inject pattern
+- Testing with Vue Test Utils and Vitest
+
+**Use when**: Building Vue 3 applications, creating composables, or establishing Vue coding standards.
+
+---
+
 ### 🎨 shadcn-aesthetic
 **Category**: UI/Design
 
