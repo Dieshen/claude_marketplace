@@ -9,5 +9,6 @@
   "homepage": "https://github.com/Dieshen/claude_marketplace",
   "license": "MIT",
   "keywords": ["architecture", "scaffolding", "crisp", "clean-code", "design-patterns", "project-structure"],
-  "commands": "./commands"
+  "commands": "./commands",
+  "agents": "./agents"
 }

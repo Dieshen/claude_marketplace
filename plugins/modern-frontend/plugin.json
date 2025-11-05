@@ -9,5 +9,6 @@
   "homepage": "https://github.com/Dieshen/claude_marketplace",
   "license": "MIT",
   "keywords": ["vue3", "react", "typescript", "frontend", "composition-api", "hooks", "state-management"],
-  "commands": "./commands"
+  "commands": "./commands",
+  "agents": "./agents"
 }

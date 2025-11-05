@@ -9,5 +9,6 @@
   "homepage": "https://github.com/Dieshen/claude_marketplace",
   "license": "MIT",
   "keywords": ["go", "golang", "concurrency", "goroutines", "channels", "testing", "best-practices", "idiomatic"],
-  "commands": "./commands"
+  "commands": "./commands",
+  "agents": "./agents"
 }

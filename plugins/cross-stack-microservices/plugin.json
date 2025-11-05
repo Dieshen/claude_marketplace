@@ -9,5 +9,6 @@
   "homepage": "https://github.com/Dieshen/claude_marketplace",
   "license": "MIT",
   "keywords": ["microservices", "go", "dotnet", "rust", "kubernetes", "docker", "api", "grpc"],
-  "commands": "./commands"
+  "commands": "./commands",
+  "agents": "./agents"
 }
