@@ -1,0 +1,14 @@
+{
+  "name": "go-best-practices",
+  "description": "Go Best Practices - Idiomatic Go patterns, concurrency, error handling, testing, and production-ready Go development",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["go", "golang", "concurrency", "goroutines", "channels", "testing", "best-practices", "idiomatic"],
+  "commands": "./commands",
+  "agents": "./agents"
+}

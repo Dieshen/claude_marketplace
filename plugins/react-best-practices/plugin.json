@@ -1,0 +1,14 @@
+{
+  "name": "react-best-practices",
+  "description": "React Best Practices - Modern hooks patterns, performance optimization, testing, and production-ready React development",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["react", "hooks", "typescript", "performance", "testing", "best-practices", "patterns"],
+  "commands": "./commands",
+  "agents": "./agents"
+}

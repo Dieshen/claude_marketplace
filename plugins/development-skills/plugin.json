@@ -1,0 +1,7 @@
+{
+  "name": "development-skills",
+  "version": "1.0.0",
+  "description": "Reusable skills for code review, ADRs, API documentation, test generation, and performance profiling",
+  "author": "Dieshen",
+  "skills": "./skills"
+}

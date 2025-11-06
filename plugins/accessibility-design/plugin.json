@@ -1,0 +1,8 @@
+{
+  "name": "accessibility-design",
+  "version": "1.0.0",
+  "description": "Accessibility and inclusive design patterns following WCAG 2.2 and ARIA best practices",
+  "author": "Dieshen",
+  "commands": "./commands",
+  "agents": "./agents"
+}

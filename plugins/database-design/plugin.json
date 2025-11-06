@@ -1,0 +1,8 @@
+{
+  "name": "database-design",
+  "version": "1.0.0",
+  "description": "Database design, optimization, and query performance patterns for SQL and NoSQL databases",
+  "author": "Dieshen",
+  "commands": "./commands",
+  "agents": "./agents"
+}

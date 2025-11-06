@@ -1,0 +1,14 @@
+{
+  "name": "cross-stack-microservices",
+  "description": "Cross-Stack Microservices - Production-ready templates and patterns for Go, .NET, and Rust microservices",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["microservices", "go", "dotnet", "rust", "kubernetes", "docker", "api", "grpc"],
+  "commands": "./commands",
+  "agents": "./agents"
+}

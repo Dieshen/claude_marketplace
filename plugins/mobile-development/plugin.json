@@ -1,0 +1,8 @@
+{
+  "name": "mobile-development",
+  "version": "1.0.0",
+  "description": "Mobile development patterns for React Native and Flutter with offline-first architecture",
+  "author": "Dieshen",
+  "commands": "./commands",
+  "agents": "./agents"
+}

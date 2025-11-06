@@ -1,0 +1,14 @@
+{
+  "name": "rust-performance",
+  "description": "Rust Performance Toolkit - Best practices, async patterns, zero-cost abstractions, and performance optimization",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["rust", "performance", "async", "tokio", "optimization", "concurrency", "systems-programming"],
+  "commands": "./commands",
+  "agents": "./agents"
+}

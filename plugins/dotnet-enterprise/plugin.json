@@ -1,0 +1,14 @@
+{
+  "name": "dotnet-enterprise",
+  "description": "Enterprise .NET Patterns - ASP.NET Core, Entity Framework, security best practices for .NET 8, 9, and 10",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["dotnet", "csharp", "aspnet", "entity-framework", "security", "enterprise", "net8", "net9", "net10"],
+  "commands": "./commands",
+  "agents": "./agents"
+}

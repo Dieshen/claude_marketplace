@@ -1,0 +1,8 @@
+{
+  "name": "code-quality-refactoring",
+  "version": "1.0.0",
+  "description": "Code quality improvement and refactoring patterns with SOLID principles and clean code practices",
+  "author": "Dieshen",
+  "commands": "./commands",
+  "agents": "./agents"
+}

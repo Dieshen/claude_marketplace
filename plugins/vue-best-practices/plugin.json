@@ -1,0 +1,14 @@
+{
+  "name": "vue-best-practices",
+  "description": "Vue.js Best Practices - Vue 3 Composition API, reactivity system, composables, Pinia, and production-ready Vue development",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["vue", "vue3", "composition-api", "composables", "pinia", "typescript", "best-practices"],
+  "commands": "./commands",
+  "agents": "./agents"
+}

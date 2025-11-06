@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Professional development tools and plugins by Narcoleptic Fox",
-    "version": "1.0.0"
+    "version": "5.0.0"
   },
   "plugins": [
     {
@@ -28,6 +28,394 @@
         "accessibility"
       ],
       "category": "UI/Design"
+    },
+    {
+      "name": "crisp-architecture",
+      "source": "./plugins/crisp-architecture",
+      "description": "CRISP Architecture Suite - Clean, Reusable, Isolated, Simple, Pragmatic scaffolding patterns for modern applications",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "architecture",
+        "scaffolding",
+        "crisp",
+        "clean-code",
+        "design-patterns",
+        "project-structure"
+      ],
+      "category": "Architecture"
+    },
+    {
+      "name": "dotnet-enterprise",
+      "source": "./plugins/dotnet-enterprise",
+      "description": "Enterprise .NET Patterns - ASP.NET Core, Entity Framework, security best practices for .NET 8, 9, and 10",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "dotnet",
+        "csharp",
+        "aspnet",
+        "entity-framework",
+        "security",
+        "enterprise",
+        "net8",
+        "net9",
+        "net10"
+      ],
+      "category": "Backend/.NET"
+    },
+    {
+      "name": "rust-performance",
+      "source": "./plugins/rust-performance",
+      "description": "Rust Performance Toolkit - Best practices, async patterns, zero-cost abstractions, and performance optimization",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "rust",
+        "performance",
+        "async",
+        "tokio",
+        "optimization",
+        "concurrency",
+        "systems-programming"
+      ],
+      "category": "Backend/Rust"
+    },
+    {
+      "name": "cross-stack-microservices",
+      "source": "./plugins/cross-stack-microservices",
+      "description": "Cross-Stack Microservices - Production-ready templates and patterns for Go, .NET, and Rust microservices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "microservices",
+        "go",
+        "dotnet",
+        "rust",
+        "kubernetes",
+        "docker",
+        "api",
+        "grpc"
+      ],
+      "category": "Microservices"
+    },
+    {
+      "name": "modern-frontend",
+      "source": "./plugins/modern-frontend",
+      "description": "Modern Frontend - Vue 3 Composition API, React hooks, TypeScript patterns, and state management",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "vue3",
+        "react",
+        "typescript",
+        "frontend",
+        "composition-api",
+        "hooks",
+        "state-management"
+      ],
+      "category": "Frontend"
+    },
+    {
+      "name": "defense-security",
+      "source": "./plugins/defense-security",
+      "description": "Defense-Grade Security - NIST compliance, security controls, cryptography, and secure development practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "security",
+        "nist",
+        "compliance",
+        "cryptography",
+        "stig",
+        "fisma",
+        "zero-trust"
+      ],
+      "category": "Security"
+    },
+    {
+      "name": "novelcrafter-export",
+      "source": "./plugins/novelcrafter-export",
+      "description": "Novelcrafter Export - Tools for exporting, formatting, and converting Novelcrafter content to various publication formats",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "novelcrafter",
+        "writing",
+        "export",
+        "epub",
+        "markdown",
+        "manuscript",
+        "publishing"
+      ],
+      "category": "Writing/Publishing"
+    },
+    {
+      "name": "react-best-practices",
+      "source": "./plugins/react-best-practices",
+      "description": "React Best Practices - Modern hooks patterns, performance optimization, testing, and production-ready React development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "react",
+        "hooks",
+        "typescript",
+        "performance",
+        "testing",
+        "best-practices",
+        "patterns"
+      ],
+      "category": "Frontend/React"
+    },
+    {
+      "name": "go-best-practices",
+      "source": "./plugins/go-best-practices",
+      "description": "Go Best Practices - Idiomatic Go patterns, concurrency, error handling, testing, and production-ready Go development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "go",
+        "golang",
+        "concurrency",
+        "goroutines",
+        "channels",
+        "testing",
+        "best-practices",
+        "idiomatic"
+      ],
+      "category": "Backend/Go"
+    },
+    {
+      "name": "vue-best-practices",
+      "source": "./plugins/vue-best-practices",
+      "description": "Vue.js Best Practices - Vue 3 Composition API, reactivity system, composables, Pinia, and production-ready Vue development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "vue",
+        "vue3",
+        "composition-api",
+        "composables",
+        "pinia",
+        "typescript",
+        "best-practices"
+      ],
+      "category": "Frontend/Vue"
+    },
+    {
+      "name": "testing-qa-suite",
+      "source": "./plugins/testing-qa-suite",
+      "description": "Comprehensive testing and quality assurance patterns across languages and frameworks",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "testing",
+        "qa",
+        "unit-testing",
+        "integration-testing",
+        "e2e",
+        "jest",
+        "pytest",
+        "playwright",
+        "coverage"
+      ],
+      "category": "Testing/QA"
+    },
+    {
+      "name": "database-design",
+      "source": "./plugins/database-design",
+      "description": "Database design, optimization, and query performance patterns for SQL and NoSQL databases",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "database",
+        "sql",
+        "nosql",
+        "postgresql",
+        "mongodb",
+        "optimization",
+        "indexing",
+        "migrations"
+      ],
+      "category": "Database"
+    },
+    {
+      "name": "devops-iac",
+      "source": "./plugins/devops-iac",
+      "description": "DevOps patterns and Infrastructure as Code with Terraform, Docker, Kubernetes, and CI/CD",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "devops",
+        "infrastructure-as-code",
+        "terraform",
+        "docker",
+        "kubernetes",
+        "cicd",
+        "github-actions"
+      ],
+      "category": "DevOps"
+    },
+    {
+      "name": "api-design-patterns",
+      "source": "./plugins/api-design-patterns",
+      "description": "API design patterns for REST, GraphQL, gRPC with versioning, security, and best practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "api",
+        "rest",
+        "graphql",
+        "grpc",
+        "api-design",
+        "security",
+        "authentication",
+        "rate-limiting"
+      ],
+      "category": "API"
+    },
+    {
+      "name": "mobile-development",
+      "source": "./plugins/mobile-development",
+      "description": "Mobile development patterns for React Native and Flutter with offline-first architecture",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "mobile",
+        "react-native",
+        "flutter",
+        "offline-first",
+        "ios",
+        "android",
+        "cross-platform"
+      ],
+      "category": "Mobile"
+    },
+    {
+      "name": "ai-ml-integration",
+      "source": "./plugins/ai-ml-integration",
+      "description": "AI/ML integration patterns with LangChain, RAG, vector databases, and prompt engineering",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "ai",
+        "ml",
+        "langchain",
+        "rag",
+        "llm",
+        "openai",
+        "embeddings",
+        "vector-database"
+      ],
+      "category": "AI/ML"
+    },
+    {
+      "name": "accessibility-design",
+      "source": "./plugins/accessibility-design",
+      "description": "Accessibility and inclusive design patterns following WCAG 2.2 and ARIA best practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "wcag",
+        "aria",
+        "inclusive-design",
+        "screen-readers",
+        "keyboard-navigation"
+      ],
+      "category": "Accessibility"
+    },
+    {
+      "name": "code-quality-refactoring",
+      "source": "./plugins/code-quality-refactoring",
+      "description": "Code quality improvement and refactoring patterns with SOLID principles and clean code practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "code-quality",
+        "refactoring",
+        "solid",
+        "clean-code",
+        "design-patterns",
+        "best-practices"
+      ],
+      "category": "Code Quality"
+    },
+    {
+      "name": "development-skills",
+      "source": "./plugins/development-skills",
+      "description": "Reusable skills for code review, ADRs, API documentation, test generation, and performance profiling",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "skills",
+        "code-review",
+        "adr",
+        "documentation",
+        "testing",
+        "performance",
+        "profiling"
+      ],
+      "category": "Development Skills"
+    },
+    {
+      "name": "mcp-integrations",
+      "source": "./plugins/mcp-integrations",
+      "description": "Integration guides and setup for MCP servers (Database, Vector DB, Cloud Providers, Docker/K8s, GitHub)",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "mcp",
+        "database",
+        "vector-database",
+        "aws",
+        "gcp",
+        "docker",
+        "kubernetes",
+        "github"
+      ],
+      "category": "MCP Integrations"
     }
   ]
 }

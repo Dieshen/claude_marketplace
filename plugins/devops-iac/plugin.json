@@ -1,0 +1,8 @@
+{
+  "name": "devops-iac",
+  "version": "1.0.0",
+  "description": "DevOps patterns and Infrastructure as Code with Terraform, Docker, Kubernetes, and CI/CD",
+  "author": "Dieshen",
+  "commands": "./commands",
+  "agents": "./agents"
+}

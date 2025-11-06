@@ -1,0 +1,8 @@
+{
+  "name": "ai-ml-integration",
+  "version": "1.0.0",
+  "description": "AI/ML integration patterns with LangChain, RAG, vector databases, and prompt engineering",
+  "author": "Dieshen",
+  "commands": "./commands",
+  "agents": "./agents"
+}
