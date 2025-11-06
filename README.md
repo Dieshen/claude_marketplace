@@ -323,6 +323,76 @@ Modern CSS/SCSS architecture based on shadcn/ui design principles. Teaches Claud
 
 Perfect for building Vibe.UI components or any modern web UI.
 
+---
+
+### 🛠️ Development Skills
+**Category**: Development Skills
+
+Reusable skills for common development tasks:
+- **Code Review**: Comprehensive code review checklists and best practices
+- **ADR Generator**: Architecture Decision Record templates and workflows
+- **API Documentation**: Auto-generate OpenAPI/Swagger specs and README docs
+- **Test Case Generator**: Generate comprehensive test cases from requirements
+- **Performance Profiler**: Analyze and optimize code performance
+
+**Use when**: Performing code reviews, documenting architecture decisions, generating API docs, writing tests, or profiling performance.
+
+---
+
+### 🔌 MCP Integrations
+**Category**: MCP Integrations | **Command**: `/setup-mcps`
+
+Integration guides for Model Context Protocol servers:
+- **Database MCP**: Connect to PostgreSQL, MySQL, MongoDB
+- **Vector Database MCP**: Integrate Pinecone, Weaviate, Qdrant
+- **Cloud Provider MCPs**: AWS, GCP, Azure direct integration
+- **Docker/Kubernetes MCP**: Manage containers and clusters
+- **GitHub MCP**: Enhanced Git operations and PR reviews
+
+**Use when**: Setting up direct integrations with databases, cloud providers, or external systems.
+
+---
+
+## Hooks & Automation
+
+The marketplace includes pre-configured hooks for automation:
+
+### Pre-Commit Quality Gate
+Runs before every commit to ensure code quality:
+- Linting (ESLint, Flake8, golangci-lint, Clippy)
+- Type checking (TypeScript, mypy)
+- Tests (Jest, pytest, go test, cargo test)
+- Secret detection
+
+### Auto-Format on Save
+Automatically formats code when files are saved:
+- Prettier/ESLint for JavaScript/TypeScript
+- Black/isort for Python
+- gofmt/goimports for Go
+- rustfmt for Rust
+
+### Security Scanner
+Scans for vulnerabilities:
+- Hardcoded secrets
+- Dependency vulnerabilities
+- SQL injection patterns
+- XSS vulnerabilities
+
+### Documentation Generator
+Auto-generates documentation:
+- OpenAPI/Swagger specs
+- TypeDoc/pdoc
+- README updates
+
+## Custom Slash Commands
+
+Pre-configured workflow commands:
+- `/review` - Full code review workflow
+- `/secure` - Security audit
+- `/optimize` - Performance optimization
+- `/document` - Generate documentation
+- `/deploy` - Deployment workflow
+
 ## Adding Plugins
 
 ### For plugins in this repository

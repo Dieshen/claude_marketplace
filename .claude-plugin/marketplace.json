@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Professional development tools and plugins by Narcoleptic Fox",
-    "version": "4.0.0"
+    "version": "5.0.0"
   },
   "plugins": [
     {
@@ -377,6 +377,45 @@
         "best-practices"
       ],
       "category": "Code Quality"
+    },
+    {
+      "name": "development-skills",
+      "source": "./plugins/development-skills",
+      "description": "Reusable skills for code review, ADRs, API documentation, test generation, and performance profiling",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "skills",
+        "code-review",
+        "adr",
+        "documentation",
+        "testing",
+        "performance",
+        "profiling"
+      ],
+      "category": "Development Skills"
+    },
+    {
+      "name": "mcp-integrations",
+      "source": "./plugins/mcp-integrations",
+      "description": "Integration guides and setup for MCP servers (Database, Vector DB, Cloud Providers, Docker/K8s, GitHub)",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "mcp",
+        "database",
+        "vector-database",
+        "aws",
+        "gcp",
+        "docker",
+        "kubernetes",
+        "github"
+      ],
+      "category": "MCP Integrations"
     }
   ]
 }

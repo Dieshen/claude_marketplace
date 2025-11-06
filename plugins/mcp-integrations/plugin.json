@@ -1,0 +1,7 @@
+{
+  "name": "mcp-integrations",
+  "version": "1.0.0",
+  "description": "Integration guides and setup for MCP servers (Database, Vector DB, Cloud Providers, Docker/K8s, GitHub)",
+  "author": "Dieshen",
+  "commands": "./commands"
+}
