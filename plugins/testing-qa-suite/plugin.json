@@ -1,0 +1,8 @@
+{
+  "name": "testing-qa-suite",
+  "version": "1.0.0",
+  "description": "Comprehensive testing and quality assurance patterns across languages and frameworks",
+  "author": "Dieshen",
+  "commands": "./commands",
+  "agents": "./agents"
+}

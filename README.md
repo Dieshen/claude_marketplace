@@ -174,6 +174,142 @@ Vue 3 Composition API and modern Vue development:
 
 ---
 
+### 🧪 Testing & QA Suite
+**Category**: Testing/QA | **Command**: `/testing-patterns`
+
+Comprehensive testing strategies and patterns across languages and frameworks:
+- Unit testing patterns (AAA, test builders, fixtures)
+- Integration testing with databases and APIs
+- End-to-end testing with Playwright
+- Test coverage and quality metrics
+- Mocking and stubbing strategies
+- Contract testing with Pact
+- Performance testing
+- Framework-specific patterns (Jest, pytest, Go testing, Rust testing)
+
+**Use when**: Implementing test suites, improving test coverage, or establishing testing standards.
+
+---
+
+### 🗄️ Database Design & Optimization
+**Category**: Database | **Command**: `/db-patterns`
+
+Database design, optimization, and performance patterns for SQL and NoSQL:
+- Schema design and normalization strategies
+- Indexing strategies (B-tree, GIN, GiST, hash)
+- Query optimization with EXPLAIN ANALYZE
+- Connection pooling best practices
+- Database migration patterns (zero-downtime)
+- NoSQL schema design (MongoDB, Redis patterns)
+- Performance monitoring and tuning
+- Caching strategies
+
+**Use when**: Designing databases, optimizing queries, or solving performance issues.
+
+---
+
+### 🚀 DevOps & Infrastructure as Code
+**Category**: DevOps | **Command**: `/devops-patterns`
+
+DevOps practices and Infrastructure as Code with modern tooling:
+- Terraform modules and best practices
+- Multi-stage Docker builds
+- Kubernetes deployment patterns
+- CI/CD pipelines with GitHub Actions
+- Monitoring and observability setup
+- Security scanning and compliance
+- Container orchestration
+- GitOps workflows
+
+**Use when**: Setting up infrastructure, implementing CI/CD, or deploying to production.
+
+---
+
+### 🌐 API Design Patterns
+**Category**: API | **Command**: `/api-patterns`
+
+API design patterns for REST, GraphQL, and gRPC:
+- RESTful API design principles
+- GraphQL schema and resolver patterns
+- gRPC service definitions
+- API versioning strategies
+- Authentication and authorization (JWT, API keys)
+- Rate limiting and throttling
+- API documentation with OpenAPI
+- Error handling and response formats
+
+**Use when**: Designing APIs, implementing authentication, or documenting endpoints.
+
+---
+
+### 📱 Mobile Development
+**Category**: Mobile | **Command**: `/mobile-patterns`
+
+Mobile development patterns for React Native and Flutter:
+- Navigation patterns (React Navigation, GoRouter)
+- State management (Zustand, Riverpod)
+- Offline-first architecture with local databases
+- Data synchronization strategies
+- Performance optimization
+- Platform-specific UI patterns
+- Testing strategies
+- App deployment and distribution
+
+**Use when**: Building mobile apps, implementing offline features, or optimizing mobile performance.
+
+---
+
+### 🤖 AI/ML Integration
+**Category**: AI/ML | **Command**: `/ai-patterns`
+
+AI/ML integration patterns with LangChain and vector databases:
+- LangChain setup and chains
+- RAG (Retrieval Augmented Generation) pipelines
+- Vector database integration (Pinecone, Weaviate, pgvector)
+- Prompt engineering techniques
+- Memory and conversation management
+- Tool-using agents
+- Streaming responses
+- Cost optimization and caching
+
+**Use when**: Integrating LLMs, building RAG systems, or implementing AI features.
+
+---
+
+### ♿ Accessibility & Inclusive Design
+**Category**: Accessibility | **Command**: `/a11y-patterns`
+
+Accessibility patterns following WCAG 2.2 and ARIA best practices:
+- Semantic HTML structure
+- ARIA attributes and roles
+- Keyboard navigation patterns
+- Focus management
+- Color contrast and visual design
+- Screen reader optimization
+- Form accessibility
+- Testing with automated tools and assistive technologies
+
+**Use when**: Building accessible applications, meeting WCAG compliance, or improving UX for all users.
+
+---
+
+### ✨ Code Quality & Refactoring
+**Category**: Code Quality | **Command**: `/refactoring-patterns`
+
+Code quality improvement and refactoring patterns:
+- SOLID principles in practice
+- Common code smells and fixes
+- Refactoring patterns (Extract Method, Replace Conditional, etc.)
+- Clean code principles
+- Design patterns application
+- Dependency injection
+- Test-driven refactoring
+- Code review best practices
+
+**Use when**: Refactoring legacy code, improving maintainability, or teaching clean code practices.
+
+---
+
 ### 🎨 shadcn-aesthetic
 **Category**: UI/Design
 

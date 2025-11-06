@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Professional development tools and plugins by Narcoleptic Fox",
-    "version": "3.0.0"
+    "version": "4.0.0"
   },
   "plugins": [
     {
@@ -221,6 +221,162 @@
         "best-practices"
       ],
       "category": "Frontend/Vue"
+    },
+    {
+      "name": "testing-qa-suite",
+      "source": "./plugins/testing-qa-suite",
+      "description": "Comprehensive testing and quality assurance patterns across languages and frameworks",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "testing",
+        "qa",
+        "unit-testing",
+        "integration-testing",
+        "e2e",
+        "jest",
+        "pytest",
+        "playwright",
+        "coverage"
+      ],
+      "category": "Testing/QA"
+    },
+    {
+      "name": "database-design",
+      "source": "./plugins/database-design",
+      "description": "Database design, optimization, and query performance patterns for SQL and NoSQL databases",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "database",
+        "sql",
+        "nosql",
+        "postgresql",
+        "mongodb",
+        "optimization",
+        "indexing",
+        "migrations"
+      ],
+      "category": "Database"
+    },
+    {
+      "name": "devops-iac",
+      "source": "./plugins/devops-iac",
+      "description": "DevOps patterns and Infrastructure as Code with Terraform, Docker, Kubernetes, and CI/CD",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "devops",
+        "infrastructure-as-code",
+        "terraform",
+        "docker",
+        "kubernetes",
+        "cicd",
+        "github-actions"
+      ],
+      "category": "DevOps"
+    },
+    {
+      "name": "api-design-patterns",
+      "source": "./plugins/api-design-patterns",
+      "description": "API design patterns for REST, GraphQL, gRPC with versioning, security, and best practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "api",
+        "rest",
+        "graphql",
+        "grpc",
+        "api-design",
+        "security",
+        "authentication",
+        "rate-limiting"
+      ],
+      "category": "API"
+    },
+    {
+      "name": "mobile-development",
+      "source": "./plugins/mobile-development",
+      "description": "Mobile development patterns for React Native and Flutter with offline-first architecture",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "mobile",
+        "react-native",
+        "flutter",
+        "offline-first",
+        "ios",
+        "android",
+        "cross-platform"
+      ],
+      "category": "Mobile"
+    },
+    {
+      "name": "ai-ml-integration",
+      "source": "./plugins/ai-ml-integration",
+      "description": "AI/ML integration patterns with LangChain, RAG, vector databases, and prompt engineering",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "ai",
+        "ml",
+        "langchain",
+        "rag",
+        "llm",
+        "openai",
+        "embeddings",
+        "vector-database"
+      ],
+      "category": "AI/ML"
+    },
+    {
+      "name": "accessibility-design",
+      "source": "./plugins/accessibility-design",
+      "description": "Accessibility and inclusive design patterns following WCAG 2.2 and ARIA best practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "wcag",
+        "aria",
+        "inclusive-design",
+        "screen-readers",
+        "keyboard-navigation"
+      ],
+      "category": "Accessibility"
+    },
+    {
+      "name": "code-quality-refactoring",
+      "source": "./plugins/code-quality-refactoring",
+      "description": "Code quality improvement and refactoring patterns with SOLID principles and clean code practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "code-quality",
+        "refactoring",
+        "solid",
+        "clean-code",
+        "design-patterns",
+        "best-practices"
+      ],
+      "category": "Code Quality"
     }
   ]
 }
