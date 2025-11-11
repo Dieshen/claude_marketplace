@@ -42,6 +42,23 @@ Comprehensive ASP.NET Core, Entity Framework, and security best practices for .N
 
 ---
 
+### 🌐 Blazor Development
+**Category**: Frontend/.NET | **Command**: `/blazor-patterns`
+
+Blazor component lifecycle patterns and real-time communication:
+- Component lifecycle management (OnInitialized, OnParametersSet, OnAfterRender)
+- SignalR integration for real-time features
+- State management decision frameworks (parameters, cascading values, scoped services, Fluxor)
+- Server vs WebAssembly architecture choices and hybrid patterns
+- JavaScript interop patterns and safety
+- Performance optimization (ShouldRender, virtualization, primitive parameters)
+- Memory leak prevention and resource disposal
+- Critical pitfalls and anti-patterns
+
+**Use when**: Building Blazor Server or WebAssembly applications, implementing real-time features, or optimizing Blazor performance.
+
+---
+
 ### ⚡ Rust Performance Toolkit
 **Category**: Backend/Rust | **Command**: `/rust-patterns`
 
@@ -58,6 +75,23 @@ Rust best practices, async patterns, and performance optimization:
 
 ---
 
+### 🦀 Rust Embedded Systems
+**Category**: Embedded/Rust | **Command**: `/rust-embedded-patterns`
+
+Embedded Rust patterns for no_std environments and low-level optimization:
+- no_std development and peripheral access (PAC/HAL/Driver layers)
+- Interrupt handling with RTIC and Embassy async
+- Memory optimization (zero-copy, stack vs heap, DMA safety)
+- SIMD optimization and inline assembly
+- WebAssembly binary size reduction
+- Unsafe Rust patterns with safety guarantees
+- Type-state machines and cross-compilation
+- Real-time constraints and hardware timing
+
+**Use when**: Building embedded systems, bare-metal firmware, WASM modules, or optimizing low-level Rust code.
+
+---
+
 ### 🌐 Cross-Stack Microservices
 **Category**: Microservices | **Command**: `/microservices`
 
@@ -71,6 +105,23 @@ Production-ready microservice templates for Go, .NET, and Rust:
 - CI/CD pipeline examples
 
 **Use when**: Building microservices architectures, choosing tech stacks, or setting up deployment infrastructure.
+
+---
+
+### 🏢 SaaS Architecture
+**Category**: SaaS/Architecture | **Command**: `/saas-patterns`
+
+Multi-tenant SaaS patterns and production operations:
+- Multi-tenancy isolation models (silo, pool, bridge, hybrid)
+- Feature flags and progressive rollout patterns
+- Billing integration with Stripe (subscriptions, metering, webhooks, dunning)
+- Observability for multi-tenant systems (logs, metrics, traces per tenant)
+- Authentication and authorization (Auth0 Organizations, RBAC, ABAC, ReBAC)
+- Data isolation and security layers (defense in depth)
+- Scaling strategies (auto-scaling, sharding, caching, connection pooling)
+- Critical anti-patterns to avoid
+
+**Use when**: Building SaaS products, implementing multi-tenancy, integrating billing systems, or scaling production systems.
 
 ---
 

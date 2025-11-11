@@ -1,0 +1,14 @@
+{
+  "name": "saas-architecture",
+  "description": "Multi-tenant SaaS patterns, isolation models, feature flags, billing integration, observability, authentication strategies, and scaling patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["saas", "multi-tenancy", "isolation", "feature-flags", "billing", "stripe", "observability", "auth0", "scaling", "microservices"],
+  "commands": "./commands",
+  "agents": "./agents"
+}
