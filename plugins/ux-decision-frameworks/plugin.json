@@ -1,0 +1,30 @@
+{
+  "name": "ux-decision-frameworks",
+  "description": "Comprehensive UI/UX decision frameworks based on Nielsen Norman Group, Baymard Institute, Material Design, and Apple HIG research - Interactive tools for overlay selection, navigation patterns, accessibility validation, form design, and mobile-first development",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": [
+    "ux",
+    "ui",
+    "design-systems",
+    "accessibility",
+    "wcag",
+    "nielsen-norman",
+    "material-design",
+    "apple-hig",
+    "decision-frameworks",
+    "patterns",
+    "mobile-ux",
+    "web-ux",
+    "form-design",
+    "navigation",
+    "cognitive-load"
+  ],
+  "commands": "./commands",
+  "agents": "./agents"
+}
