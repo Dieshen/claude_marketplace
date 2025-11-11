@@ -1,0 +1,14 @@
+{
+  "name": "rust-embedded-systems",
+  "description": "Embedded Rust patterns for no_std environments, peripheral access, DMA, SIMD optimization, and WebAssembly size reduction",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["rust", "embedded", "no-std", "bare-metal", "dma", "simd", "wasm", "microcontroller", "cortex-m", "riscv"],
+  "commands": "./commands",
+  "agents": "./agents"
+}

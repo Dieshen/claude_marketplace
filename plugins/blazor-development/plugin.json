@@ -1,0 +1,14 @@
+{
+  "name": "blazor-development",
+  "description": "Blazor component lifecycle patterns, SignalR real-time integration, state management, and performance optimization for Server and WebAssembly",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brock / Narcoleptic Fox LLC",
+    "email": "contact@narcolepticfox.com"
+  },
+  "homepage": "https://github.com/Dieshen/claude_marketplace",
+  "license": "MIT",
+  "keywords": ["blazor", "aspnet", "signalr", "webassembly", "blazor-server", "component-lifecycle", "state-management", "real-time"],
+  "commands": "./commands",
+  "agents": "./agents"
+}
