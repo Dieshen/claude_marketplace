@@ -30,6 +30,85 @@
       "category": "UI/Design"
     },
     {
+      "name": "blazor-development",
+      "source": "./plugins/blazor-development",
+      "description": "Blazor component lifecycle patterns, SignalR real-time integration, state management",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock / Narcoleptic Fox LLC"
+      },
+      "keywords": [
+        "blazor",
+        "aspnet",
+        "signalr",
+        "webassembly",
+        "blazor-server",
+        "component-lifecycle",
+        "state-management",
+        "real-time"
+      ],
+      "category": "Frontend/.NET"
+    },
+    {
+      "name": "rust-embedded-systems",
+      "source": "./plugins/rust-embedded-systems",
+      "description": "Rust Embedded Systems - Patterns for embedded development, no_std, hardware interfacing, and performance optimization",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "rust",
+        "embedded",
+        "no_std",
+        "hardware",
+        "microcontroller",
+        "performance",
+        "systems-programming"
+      ],
+      "category": "Embedded/Rust"
+    },
+    {
+      "name": "ux-decision-frameworks",
+      "source": "./plugins/ux-decision-frameworks",
+      "description": "Comprehensive UI/UX decision frameworks based on Nielsen Norman Group, Baymard Institute, Material Design, and Apple HIG research - Interactive tools for overlay selection, navigation patterns, accessibility validation, form design, and mobile-first development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "ux",
+        "ui",
+        "design",
+        "accessibility",
+        "navigation",
+        "forms",
+        "mobile-first",
+        "framework"
+      ],
+      "category": "UX/UI"
+    },
+    {
+      "name": "saas-architecture",
+      "description": "Multi-tenant SaaS patterns, isolation models, feature flags, billing integration, observability, authentication strategies, and scaling patterns",
+      "source": "./plugins/saas-architecture",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brock"
+      },
+      "keywords": [
+        "saas",
+        "multi-tenant",
+        "architecture",
+        "scaling",
+        "feature-flags",
+        "billing",
+        "observability",
+        "authentication"
+      ],
+      "category": "SaaS"
+    },
+    {
       "name": "crisp-architecture",
       "source": "./plugins/crisp-architecture",
       "description": "CRISP Architecture Suite - Clean, Reusable, Isolated, Simple, Pragmatic scaffolding patterns for modern applications",
